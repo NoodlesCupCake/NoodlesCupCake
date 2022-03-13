@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoodlesCupCake
+- 👋 Hi, I’m James.
 - 👀 I’m interested in Java Project, Front-end development, Graphic Design.
 - 🌱 I’m currently learning CSS, HTML, JavaScript.
 - 💞️ I’m looking to collaborate on ...
