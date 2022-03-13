@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoodlesCupCake
-- 👀 I’m interested in Java Project.
-- 🌱 I’m currently learning Java language.
+- 👀 I’m interested in Java Project, Front-end development, Graphic Design.
+- 🌱 I’m currently learning CSS, HTML, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
