@@ -28,9 +28,6 @@
 
 <!-- About Section -->
 ## :man_technologist: **About Me**
-
-<picture> <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> width = 300px></picture>
-
 I'm working on both web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in frameworks like ASP.NET, React.js, and Next.js. I'm committed to staying updated on industry trends to enhance my skills.
 - 🔭 I’m currently working on enhancing my web development skills
 - 🌱 I’m currently learning Laravel
