@@ -37,8 +37,4 @@ I'm working on both web development and machine learning, specifically in Natura
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always think of becoming a programmer oneday
 
-<br>
-
-<br/>
-<hr/>
 <br/>
