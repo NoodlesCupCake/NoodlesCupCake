@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jirayu Klinudom</h1>
 <h4 align="center">A Full-Stack Developer and Computer Science Student in the Faculty of Information and Communication Technology from Mahidol University.
 </div>
-
+<br />
 
 <p align="center">
 <!--  <a href="https://alsiam.com" target="blank">
@@ -27,36 +27,20 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: jirayuklinudom@gmail.com<br/><br/>
+## :man_technologist: **About Me**
 
-</p>
+<picture> <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> width = 300px></picture>
 
-<br/>
-<br/>
-<br/>
+I'm working on both web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in frameworks like ASP.NET, React.js, and Next.js. I'm committed to staying updated on industry trends to enhance my skills.
+- 🔭 I’m currently working on enhancing my web development skills
+- 🌱 I’m currently learning Laravel
+- 👯 I’m looking to collaborate on your open-source projects
+- 💬 Ask me about React.js, Next.js, ASP.NET, C, Python, Java, JavaScript, HTML, CSS
+- 📫 How to reach me: Contact part
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I always think of becoming a programmer oneday
 
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-<br/>
-
+<br>
 
 <br/>
 <hr/>
