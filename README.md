@@ -28,7 +28,7 @@
 
 <!-- About Section -->
 ## :man_technologist: **About Me**
-I'm working on both web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in frameworks like ASP.NET, React.js, and Next.js. I'm committed to staying updated on industry trends to enhance my skills.
+I'm working on both full-stack web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in various frameworks, including ASP.NET, React.js, and Next.js along with expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and MongoDB.
 - 🔭 I’m currently working on enhancing my web development skills
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on your open-source projects
