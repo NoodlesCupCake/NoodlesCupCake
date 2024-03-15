@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jirayu Klinudom</h1>
+<h1 align="center">Greeting, I'm Jirayu Klinudom</h1>
 <h4 align="center">A Full-Stack Developer and Computer Science Student in the Faculty of Information and Communication Technology from Mahidol University.
 </div>
 <br />
