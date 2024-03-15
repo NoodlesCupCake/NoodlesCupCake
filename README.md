@@ -28,13 +28,12 @@
 
 <!-- About Section -->
 ## :man_technologist: **About Me**
-I'm working on both full-stack web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in various frameworks, including ASP.NET, React.js, and Next.js along with expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and MongoDB.
-- 🔭 I’m currently working on enhancing my web development skills
-- 🌱 I’m currently learning Advanced React
+I'm working on both full-stack web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in various frameworks, including ASP.NET Core, React.js, and Next.js along with a bit of expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and MongoDB.
+- 🔭 I’m currently working on enhancing my data science skills
+- 🌱 I’m currently learning more about Deep Learning
 - 👯 I’m looking to collaborate on your open-source projects
-- 💬 Ask me about React.js, Next.js, ASP.NET, C, Python, Java, JavaScript, HTML, CSS
-- 📫 How to reach me: Contact part
+- 💬 Ask me about React.js, C, Python, Java, JavaScript, HTML, CSS
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I always think of becoming a programmer one day
+- ⚡ Fun fact: I got a imposter syndrome
 
 <br/>
