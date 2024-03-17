@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Greeting, I'm Jirayu Klinudom</h1>
-<h4 align="center">A Full-Stack Developer and Computer Science Student in the Faculty of Information and Communication Technology from Mahidol University.
+<h4 align="center">A Web Developer and Computer Science Student in the Faculty of Information and Communication Technology from Mahidol University.
 </div>
 <br />
 
@@ -28,7 +28,7 @@
 
 <!-- About Section -->
 ## :man_technologist: **About Me**
-I'm working on both web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in various frameworks, including ASP.NET Core, React.js, and Next.js along with a bit of expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and a bit of MongoDB. 
+I'm working on both web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in various frameworks, including ASP.NET Core, React.js, and Next.js along with a bit of expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and MongoDB. 
 Here is my <a href="https://portfolio-sepia-five-71.vercel.app/" target="_blank">Portfolio</a>
 - 🔭 I’m currently working on enhancing my data science skills
 - 🌱 I’m currently learning more about Deep Learning
