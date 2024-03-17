@@ -28,7 +28,8 @@
 
 <!-- About Section -->
 ## :man_technologist: **About Me**
-I'm working on both web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in various frameworks, including ASP.NET Core, React.js, and Next.js along with a bit of expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and a bit of MongoDB. Here is my <a href="https://portfolio-sepia-five-71.vercel.app/" target="_blank">Portfolio</a>
+I'm working on both web development and machine learning, specifically in Natural Language Processing. I'm skilled in Python and Javascript, and experienced in various frameworks, including ASP.NET Core, React.js, and Next.js along with a bit of expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and a bit of MongoDB. 
+Here is my <a href="https://portfolio-sepia-five-71.vercel.app/" target="_blank">Portfolio</a>
 - 🔭 I’m currently working on enhancing my data science skills
 - 🌱 I’m currently learning more about Deep Learning
 - 👯 I’m looking to collaborate on your open-source projects
