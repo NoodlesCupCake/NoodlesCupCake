@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Greeting, I'm Jirayu Klinudom</h1>
-<h4 align="center">A Web Developer and Computer Science Student in the Faculty of Information and Communication Technology from Mahidol University.
+<h4 align="center">A Graduate Computer Science Student at Mahidol University Faculty of Information and Communication Technology.
 </div>
 <br />
 
