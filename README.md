@@ -28,12 +28,8 @@
 
 <!-- About Section -->
 ## :man_technologist: **About Me**
-I'm working in the machine learning field, specifically in Natural Language Processing (NLP) and Large Language Models (LLMs). I'm skilled in Python and Javascript, and experienced in various frameworks, including Keras, PyTorch, SciKit Learn, and Tensorflow, as for web development, ASP.NET Core, React.js, and Next.js along with a bit of expertise in back-end development tools like Node.js and Express.js. Also, I'm familiar with several databases, including MySQL, PostgreSQL, and Supabase. 
-Here is my <a href="https://portfolio-sepia-five-71.vercel.app/" target="_blank">Portfolio</a>
-- 🔭 I’m currently working on enhancing my Data Science skills
-- 🌱 I’m currently learning more about Deep Learning
-- 👯 I’m looking to collaborate on your open-source projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got an imposter syndrome
+As a graduate computer science student from Mahidol University, Faculty of Information and Communication Technology, I'm passionate about data science, front-end web development, and machine learning. I am a quick learner with a sociable personality, a talent for breaking down complex concepts to make them easier for others to understand, and a positive attitude.
+
+I am currently working in the artificial intelligence field, focusing on Natural Language Processing (NLP) and Generative AI. I have expertise in dataset creation for machine learning tasks and a strong foundation in machine learning. I have also worked on several projects that incorporate AI skills, including Thai2ThSL, a web application, using Streamlit, for translating Thai into Thai Sign Language. As for my other programming skills. I am also familiar with a few front-end web application frameworks, including Blazor, React, and Next.js, as well as databases such as MySQL, PostgreSQL, and Supabase.
 
 <br/>
